@@ -1,0 +1,39 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente — NUNCA suba este arquivo
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs e saídas geradas
+logs/
+*.log
+output/
+relatorios_gerados/
+pdfs_gerados/
+
+# Banco de dados local
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
