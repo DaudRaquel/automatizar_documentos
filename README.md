@@ -1,5 +1,7 @@
 # 🚛 Automatizar Documentos — Integração TOTVS RM
 
+![Tests](https://github.com/DaudRaquel/automatizar_documentos/actions/workflows/tests.yml/badge.svg)
+
 Automação completa para geração de documentos de assinatura de motoristas, com dados extraídos diretamente do **TOTVS RM (Oracle)**. O processo que antes levava horas passou a ser executado em minutos.
 
 ## ✨ Funcionalidades
